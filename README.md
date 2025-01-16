@@ -68,35 +68,5 @@ This project uses a CNN architecture designed to classify potato leaf images. Th
    - Evaluate the model on the test set.
    - Generate accuracy and loss metrics.
 
-## Results
-- Accuracy achieved: [Add details based on implementation]
-- Loss metrics: [Add details based on implementation]
-- Visualizations:
-  - Confusion Matrix
-  - Accuracy and Loss Curves
 
-## How to Run
-1. Clone the repository or copy the code into your development environment.
-2. Follow the setup instructions to install dependencies and prepare the dataset.
-3. Execute the notebook or script step by step to train and evaluate the model.
-
-## Technologies Used
-- **Language:** Python
-- **Frameworks and Libraries:**
-  - TensorFlow/Keras
-  - NumPy
-  - Matplotlib
-
-## Contributions
-Contributions to this project are welcome! Feel free to submit issues or pull requests to improve the code or documentation.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgments
-Special thanks to the contributors of the [Potato Dataset](https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset) and the Kaggle community for their resources and inspiration.
-
----
-
-For any issues or inquiries, please contact the project maintainer at [your-email@example.com].
 
