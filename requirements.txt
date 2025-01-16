@@ -1,9 +1,9 @@
-pandas
-seaborn
-tensorflow
-numpy
-matplotlib
-scikit-learn
-catboost
-dill
+pandas==1.5.3           
+seaborn==0.12.2        
+tensorflow==2.9.1      
+numpy==1.23.5         
+matplotlib==3.6.2      
+scikit-learn==1.2.0    
+catboost==1.2.1         
+dill==0.3.6             
 -e .
